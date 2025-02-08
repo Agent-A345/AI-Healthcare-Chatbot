@@ -21,7 +21,7 @@ This project is an AI-powered healthcare chatbot designed to assist users by ans
 3. **Install Dependencies**<br>
    pip install -r requirements.txt<br>
 4. **Run the Chatbot**<br>
-   streamlit run CHATBOT.py<br>
+   streamlit run app.py<br>
 
 ## Technologies Used
 + Python 3.x
